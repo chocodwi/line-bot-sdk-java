@@ -13,8 +13,6 @@
 # License for the specific language governing permissions and limitations
 # under the License.
 
-
-
 line.bot:
   channel-token: 'VBbDEbLlV6q3zZlFbcF6RuJahMHrlkZM7C0VXJacRC7bny7FcostTmwDMA0K1IKF4xfQvqNeTa3aCKlU6yr2h4mOzlLZoFAEkg51Unki1b5OiiBCzjbFvtsgpIRxOGLwBYTgdE+krrOPQlIyNMZC/QdB04t89/1O/w1cDnyilFU='
   channel-secret: 'bd9b2d3e55e6925e8bd95ccbb4f47fd6'
